@@ -1,0 +1,72 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+#text{
+      position: absolute;
+    text-align: center;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -5%);
+    font-family: didot;
+}
+
+#box {
+  background: #99c7f9;
+  width: 60%;
+  height: 50%;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+  border: 1px solid #000;
+}
+
+#images {
+  width: 200%;
+  height: 100%;
+  position: absolute;
+  margin-left: -200%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+}
+
+#images2 {
+  width: 200%;
+  height: 100%;
+  position: absolute;
+  margin-left: -400%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+}
+
+.paintings {
+  width: 32%;
+  height: 100%;
+  border: 2px solid green;
+  display: inline-block;
+  background-color: rgba(0, 0, 255, 0.1);
+}
+
+.paintings img{
+    width:50px;
+max-height:100%;
+}
