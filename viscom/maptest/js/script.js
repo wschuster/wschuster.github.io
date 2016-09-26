@@ -43,7 +43,7 @@
 		    moveRandom($(this));
 		  });
 		}, 3000);
-    
+$(document).ready(function() {
  (function fadeInDiv() {
      var divs = $('.piece');
      var elem = divs.eq(Math.floor(Math.random() * divs.length));
@@ -62,4 +62,4 @@
              //fadeInDiv();
          });
      }
- })();
+ })();});
