@@ -4,7 +4,7 @@ $(document).ready(function(){
 		type: 'GET',
 		//insert your the url of your JSON file hosted by github
 
-		url: 'https://raw.githubusercontent.com/JarenTigani/JarenTigani.Github.io/master/Project_2/scripts/data.json',
+		url: 'data.json',
 		dataType: 'json',
 
 		success: function(data) {
