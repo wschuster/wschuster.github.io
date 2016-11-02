@@ -16,8 +16,6 @@ $(document).ready(function(){
 				 $("body").append('<div class="container">' + '<div class="memory">' + memories.firstmemory + '</div>' + '<div class="orb" id="orb-' + i + '">' + "</div>" + "</div>");
 				
 
-		
-
 
 				if (memories.happiness == "yes"){
 					$("#orb-"+i).css("background-color", "#ffff00");
