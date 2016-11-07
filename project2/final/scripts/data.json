@@ -141,7 +141,7 @@
     "irritation": "no",
     "annoyance": "no",
     "other": "no",
-    "firstmemory": "I was in my grandparents camper at a campground in Florida sitting at the table building a big fancy bionicle that my parents let me get for the trip down there. I remember is very vividly"
+    "firstmemory": "I was in my grandparents camper at a campground in Florida sitting at the table building a big fancy bionicle that my parents let me get for the trip down there. I remember it very vividly"
 }, {
     "age34": "19-23",
     "agememory": "age 3-4",
@@ -822,7 +822,8 @@
     "rage": "no",
     "irritation": "no",
     "annoyance": "no",
-    "other": "no"
+    "other": "no",
+    "firstmemory": "Chose not to describe memory"
 }, {
     "age34": "46-50",
     "agememory": "age 5-6",
