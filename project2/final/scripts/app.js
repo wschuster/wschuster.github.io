@@ -72,7 +72,7 @@ $(document).ready(function() {
                 };
                 if ($(this).hasClass("oneclick")) {
                     $(this).children(".orb").children(".memory").clone().addClass("new-full").appendTo('body');
-
+                    $(".container").children(".orb").removeClass("bigger");
                     $('body').addClass("stop-scrolling");
                     $(".new-full").append('<img class="X" src="https://cdn0.iconfinder.com/data/icons/basic-ui-elements-plain/385/010_x-512.png" width="100%">')
 
@@ -89,7 +89,6 @@ $(document).ready(function() {
                     $(this).fadeOut();
                     $(".container").removeClass("oneclick");
                     $(".container").children(".orb").children(".memory").fadeOut(1000);
-                    $(".container").children(".orb").removeClass("bigger");
 
                 });
 
