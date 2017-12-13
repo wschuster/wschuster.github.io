@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://red.com/index.html</loc>
+    <lastmod>2017-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://red.com/images/photo%20nov%2006,%206%2034%2027%20pm-crop-u953.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/photo%20nov%2006,%206%2034%2040%20pm-crop-u1080.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/photo%20nov%2006,%206%2034%2058%20pm-crop-u1100.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/photo%20oct%2023,%206%2000%2011%20pm-crop-u1120.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/photo%20oct%2023,%206%2000%2041%20pm-crop-u1140.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/pill_mockup-crop-u1160.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/photo%20nov%2006,%206%2034%2027%20pm-crop-u943.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/photo%20nov%2006,%206%2034%2040%20pm-crop-u1086.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/photo%20nov%2006,%206%2034%2058%20pm-crop-u1106.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/photo%20oct%2023,%206%2000%2011%20pm-crop-u1126.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/photo%20oct%2023,%206%2000%2041%20pm-crop-u1146.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://red.com/images/pill_mockup-crop-u1166.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

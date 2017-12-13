@@ -1,0 +1,100 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="red.com" resolutions="1x" timestamp="1513149775614">
+  <folder name="css">
+    <file name="site_global.css" crc="80738750"/>
+    <file name="index.css" crc="528975011" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="splash.jpg" crc="21235930" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-4.jpg" crc="297145516" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="box1.jpg" crc="3878733031" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="box7.jpg" crc="3910602124" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="box4.jpg" crc="373438267" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="box5.jpg" crc="520471154" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="orangeitems.jpg" crc="437338441" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="box3.jpg" crc="38241078" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gummies.jpg" crc="465830873" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reditems2.jpg" crc="3900653074" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="needle.jpg" crc="34371804" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo nov 06, 6 34 27 pm-crop-u953.jpg" crc="4145707063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="photo nov 06, 6 34 40 pm-crop-u1080.jpg" crc="3907362112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo nov 06, 6 34 58 pm-crop-u1100.jpg" crc="3785945873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo oct 23, 6 00 11 pm-crop-u1120.jpg" crc="3789181030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo oct 23, 6 00 41 pm-crop-u1140.jpg" crc="4142971407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pill_mockup-crop-u1160.jpg" crc="17338407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo nov 06, 6 34 27 pm-crop-u943.jpg" crc="209087131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo nov 06, 6 34 40 pm-crop-u1086.jpg" crc="4260417565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo nov 06, 6 34 58 pm-crop-u1106.jpg" crc="3806014819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo oct 23, 6 00 11 pm-crop-u1126.jpg" crc="452819093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo oct 23, 6 00 41 pm-crop-u1146.jpg" crc="140352988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pill_mockup-crop-u1166.jpg" crc="148131545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3972356362" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="80625554" seo="true" mt="1513052424304" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="79432204" seo="true" mt="1513149551741" redirect="true"/>
+</manifest>
