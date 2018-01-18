@@ -36,7 +36,7 @@ h1{
 
 #redsub{
     position:absolute;
-    margin-top:-43vh;
+    margin-top:-45vh;
     margin-left: 40vw;
     line-height: 10vh;
     text-align:left;
@@ -151,4 +151,21 @@ h1{
     width:94vw;
 
     }
+    #red{
+    font-size:23vw;
+    }
+
+    
+    #redsub{
+    font-size:6vw;
+            margin-top:-45vh;
+
+}
+
+
+#arrow{
+ 
+    font-size:10vw;
+
+}
 }
