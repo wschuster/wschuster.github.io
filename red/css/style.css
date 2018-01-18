@@ -68,24 +68,15 @@ h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color:white;
-}
-
-.redcolor{
-    background-color:#ff0000 !important; 
-
+    background-color:lightgrey;
 }
 
 .village{
         background-image: url('../images/splash.png');
-        background-blend-mode:multiply;
-
-
 }
 
 .woman{
         background-image: url('../images/woman.jpg');
-        background-blend-mode:multiply;
 }
 
 .box1{
