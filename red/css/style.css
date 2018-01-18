@@ -67,7 +67,6 @@ h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color:red;
 }
 
 .village{
@@ -132,7 +131,7 @@ h1{
 
 
 @media screen and (max-width: 1000px) {
-    .box1, .box7, .box4, .box5, .orangeitems, .gummies, .reditems2 {
+    .box1, .box7, .box4, .box5, .box3, .orangeitems, .gummies, .reditems2, .morphine {
     background-size: contain;
     background-repeat: no-repeat;
     width: 100vw;
@@ -140,8 +139,8 @@ h1{
     padding-top: 66.64%;
     }
     .textbox{
-        margin-left:6vw;
-        width:82vw;
+        margin-left:8vw;
+        width:84vw;
         padding-top:3vw;
         padding-bottom:3vw;
     }
