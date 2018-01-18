@@ -1,0 +1,149 @@
+body{
+    font-size:18px;
+    height: 100%;
+    font-family: source-sans-pro;
+    background-color:#fff;
+    color: dimgray;
+    margin:0;
+    width:100vw;
+    overflow-x:hidden;
+}
+html{
+    height:100%;
+}
+
+h1{
+    color:#ff0000;
+    font-family: "termina",sans-serif;
+    font-style: normal;
+    font-weight: 400;   
+}
+
+
+#red{
+    position:absolute;
+    margin-top:-100vh;
+    line-height: 90vh;
+    width:93vw;
+    height:100vh;
+    text-align:center;
+    color:#fff;
+    font-size:15vw;
+    font-family: "termina",sans-serif;
+    font-style: normal;
+    font-weight: 900;
+}
+
+#redsub{
+    position:absolute;
+    margin-top:-43vh;
+    margin-left: 40vw;
+    line-height: 10vh;
+    text-align:left;
+    color:#fff;
+    font-size:3vw;
+    font-family: "termina",sans-serif;
+    font-style: normal;
+    font-weight: 400;    
+}
+
+
+#arrow{
+    position:absolute;
+    margin-top:-12vh;
+    line-height: 10vh;
+    margin-left: 39vw;
+    text-align:left;
+    color:#fff;
+    font-size:3vw;
+    font-family: "termina",sans-serif;
+    font-style: normal;
+    font-weight: 400;  
+}
+
+
+.splash {
+    height: 100%; 
+    background-attachment: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#ff0000;
+}
+
+.village{
+        background-image: url('../Images/splash.png');
+        background-blend-mode:multiply;
+
+}
+
+.woman{
+        background-image: url('../Images/woman.jpg');
+        background-blend-mode:multiply;
+}
+
+.box1{
+            background-image: url('../Images/box1.jpg');
+}
+
+.box7{
+            background-image: url('../Images/box7.jpg');
+}
+
+.box4{
+            background-image: url('../Images/box4.jpg');
+}
+
+.box5{
+            background-image: url('../Images/box5.jpg');
+}
+
+.orangeitems{
+            background-image: url('../Images/orangeitems.jpg');
+}
+
+.box3{
+            background-image: url('../Images/box3.jpg');
+}
+
+.gummies{
+            background-image: url('../Images/gummies.jpg');
+}
+
+.reditems2{
+            background-image: url('../Images/reditems2.jpg');
+}
+
+.morphine{
+            background-image: url('../Images/needle.jpg');
+}
+
+#footer{
+    margin-top:10vw;
+    width:100vw;
+
+    background-color:#FF0000;
+    color:white;
+    padding-left:20vw;
+    padding-top:8vw;
+    padding-bottom:8vw;
+}
+
+
+@media screen and (max-width: 1000px) {
+    .box1, .box7, .box4, .box5, .orangeitems, .gummies, .reditems2 {
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 0;
+    padding-top: 66.64%;
+    }
+}
+
+
+.textbox{
+    width:60vw;
+    margin-left:20vw;
+    padding-top:8vw;
+    padding-bottom: 10vw;
+}
