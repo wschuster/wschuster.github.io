@@ -71,8 +71,7 @@ h1{
 }
 
 .village{
-        background-image: url('../images/splash.png');
-}
+            background-image: url('../images/splash.png');}
 
 .woman{
         background-image: url('../images/woman.jpg');
