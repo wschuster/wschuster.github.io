@@ -68,12 +68,17 @@ h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.redcolor{
     background-color:#ff0000;
+
 }
 
 .village{
         background-image: url('../images/splash.png');
         background-blend-mode:multiply;
+
 
 }
 
