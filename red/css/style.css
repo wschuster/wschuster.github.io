@@ -123,6 +123,14 @@ h1{
 }
 
 
+.textbox{
+    width:60vw;
+    margin-left:20vw;
+    padding-top:8vw;
+    padding-bottom: 10vw;
+}
+
+
 @media screen and (max-width: 1000px) {
     .box1, .box7, .box4, .box5, .orangeitems, .gummies, .reditems2 {
     background-size: contain;
@@ -131,12 +139,10 @@ h1{
     height: 0;
     padding-top: 66.64%;
     }
-}
-
-
-.textbox{
-    width:60vw;
-    margin-left:20vw;
-    padding-top:8vw;
-    padding-bottom: 10vw;
+    .textbox{
+        margin-left:6vw;
+        width:82vw;
+        padding-top:3vw;
+        padding-bottom:3vw;
+    }
 }
