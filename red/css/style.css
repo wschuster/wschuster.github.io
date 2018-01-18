@@ -72,50 +72,50 @@ h1{
 }
 
 .village{
-        background-image: url('../Images/splash.png');
+        background-image: url('../images/splash.png');
         background-blend-mode:multiply;
 
 }
 
 .woman{
-        background-image: url('../Images/woman.jpg');
+        background-image: url('../images/woman.jpg');
         background-blend-mode:multiply;
 }
 
 .box1{
-            background-image: url('../Images/box1.jpg');
+            background-image: url('../images/box1.jpg');
 }
 
 .box7{
-            background-image: url('../Images/box7.jpg');
+            background-image: url('../images/box7.jpg');
 }
 
 .box4{
-            background-image: url('../Images/box4.jpg');
+            background-image: url('../images/box4.jpg');
 }
 
 .box5{
-            background-image: url('../Images/box5.jpg');
+            background-image: url('../images/box5.jpg');
 }
 
 .orangeitems{
-            background-image: url('../Images/orangeitems.jpg');
+            background-image: url('../images/orangeitems.jpg');
 }
 
 .box3{
-            background-image: url('../Images/box3.jpg');
+            background-image: url('../images/box3.jpg');
 }
 
 .gummies{
-            background-image: url('../Images/gummies.jpg');
+            background-image: url('../images/gummies.jpg');
 }
 
 .reditems2{
-            background-image: url('../Images/reditems2.jpg');
+            background-image: url('../images/reditems2.jpg');
 }
 
 .morphine{
-            background-image: url('../Images/needle.jpg');
+            background-image: url('../images/needle.jpg');
 }
 
 #footer{
