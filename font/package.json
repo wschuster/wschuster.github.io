@@ -1,0 +1,53 @@
+{
+  "name": "plumin.js",
+  "version": "1.10.7",
+  "description": "Create and manipulate fonts using javascript",
+  "main": "dist/plumin.js",
+  "scripts": {
+    "gulp": "gulp",
+    "help": "gulp --tasks",
+    "test": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/byte-foundry/plumin.js.git"
+  },
+  "keywords": [
+    "opentype",
+    "font",
+    "paper"
+  ],
+  "author": "Louis-Rémi <lrbabe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byte-foundry/plumin.js/issues"
+  },
+  "homepage": "https://github.com/byte-foundry/plumin.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.4.0",
+    "chai": "^3.5.0",
+    "codemirror": "^5.1.0",
+    "es6-object-assign": "^1.0.1",
+    "eslint": "^2.1.0",
+    "eslint-plugin-mocha": "^2.0.0",
+    "ghooks": "^1.0.3",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.1",
+    "gulp-shelter": "^1.0.0",
+    "jscs": "^2.10.1",
+    "knacss": "^4.0.3",
+    "mocha": "^2.4.5",
+    "mocha-phantomjs": "^4.0.2",
+    "opentype.js": "nodebox/opentype.js",
+    "paper": "paperjs/paper.js#prebuilt/module",
+    "webpack": "^1.12.13"
+  },
+  "config": {
+    "ghooks": {
+      "pre-commit": "npm run gulp -- build",
+      "post-merge": "npm install",
+      "post-rebase": "npm install"
+    }
+  }
+}

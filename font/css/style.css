@@ -1,0 +1,61 @@
+@font-face {
+font-family: "Yeongeo";
+src: url("../fonts/Yeongeo.otf");
+}
+
+html,
+			body,
+			body > .row > .col {
+				height: 100%;
+			}
+
+			body > .row {
+				height: calc( 100% - 100px );
+			}
+
+			textarea.editor,
+			textarea.result {
+				width: 100%;
+				/* Doesn't work in Chrome :-/
+				height: calc( 100% - 100px ); */
+				height: 400px;
+
+				margin: 0;
+			}
+
+			textarea.editor,
+			.CodeMirror {
+				font-size: 20px;
+			}
+
+			textarea.result {
+				padding: 20px;
+
+				border: 0;
+				border-radius: 0;
+
+				font-family: 'Yeongeo', sans-serif;
+				font-size: 100px;
+
+				resize: none;
+			}
+
+			.btn {
+				border: 1px solid #CCC;
+				border-radius: 3px;
+
+				margin-top: 10px;
+				padding: 5px 10px;
+
+				font-size: 25px;
+				text-decoration: none;
+			}
+
+			.fb-like {
+				height: 20px;
+				font-size: 0;
+			}
+
+			.gh-star {
+				width: 106px;
+			}
