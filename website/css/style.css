@@ -1,0 +1,55 @@
+
+body{
+    margin:0;
+    font-family:source-sans-pro 400 normal;
+    font-size:10px;
+    background-color:#c5d3ea;
+    color:#353535;
+    height:100vh;
+    overflow:none;
+}
+
+#header{
+    position:absolute;
+    width:100vw;
+    top:1vh;
+    font-size:15px;
+    padding-left:5vw;
+    text-transform:uppercase;
+    z-index:100;
+}
+
+.splash {
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:0;
+}
+
+.books{
+            background-image: url('../assets/911bookspread.jpg');}
+
+#thrdcont{
+    text-align:center;
+    font-size:15px;
+    position:absolute;
+    bottom:0;
+    text-transform:uppercase;
+
+}
+
+.thrd{
+
+    width:33.33vw;
+    float:left;
+}
+
+.sidetext{
+        position:absolute;
+    top:18vh;
+    right:0;
+        transform: rotate(90deg);
+        font-size:15px;
+        z-index:1000;
+}
